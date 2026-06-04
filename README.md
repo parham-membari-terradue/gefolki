@@ -12,7 +12,7 @@ GeFolki is a coregistration software that has been developped in the framework o
 
 ## <a name="prerequisites">Prerequisites
     
-The package is built using `Python 2.7, 3.5, 3.6, 3.7, 3.8`.
+The package supports `Python 3.8+`.
 
 ## <a name="installation">Installation - Ellip Workflows, Ellip Notebook
 
