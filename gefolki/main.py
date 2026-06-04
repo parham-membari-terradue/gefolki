@@ -3,7 +3,7 @@ from __future__ import absolute_import
 import numpy as np
 
 from scipy.io import loadmat
-from scipy.ndimage import imread
+from skimage.io import imread
 
 import pylab as pl
 
