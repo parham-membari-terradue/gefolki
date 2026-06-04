@@ -2,3 +2,8 @@
 .ipynb_checkpoints
 *.tif
 /examples/datasets
+gefolki.egg-info
+build
+dist
+**.tif
+**__pycache__
